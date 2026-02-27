@@ -25,7 +25,7 @@ A navigation link has been added to the main (`index.js`) page using Next.js `<L
 ![alt text](<img/Output Task 1-2.gif>)
 ---
 
-## 💡 Reflection Questions & Answers
+## Reflection Questions & Answers
 
 ### 1. Why is the Pages Router called "file-based routing"?
 
